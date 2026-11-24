@@ -1,0 +1,6 @@
+{
+  "name": "TUB: The Infinite Possibility",
+  "description": "An expansive single-player cosmic intellectual RPG where TUB explores an infinite multiverse of logic, mathematics, spatial geometry, and conceptual realities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
